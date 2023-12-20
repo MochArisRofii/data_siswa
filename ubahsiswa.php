@@ -59,7 +59,7 @@ if(isset($_POST['ubahproduk'])) {
     $kota=$_POST['kot'];
     
     $sql = mysqli_query($config, "update siswa set id_siswa='$id_',NIS='$nis',
-    Nama='$nama',Tanggal_Lahir='$tgl', jenis='$jenis', Alamat='$alamat',
+    Nama='$nama',Tanggal_Lahir='$tgllhr', jenis='$jenis', Alamat='$alamat',
     Kota='$kota' WHERE id_siswa='$_GET[id]'");
    
     echo "<script>alert('Data Siswa Berhasil Di Ubah!');</script>";
