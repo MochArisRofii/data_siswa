@@ -44,7 +44,7 @@
             <option>Jakarta</option>
         </select>
     </div>
-    <button class="btn btn-primary w-100" name="ubahproduk">UBAH PRODUK</button>
+    <button class="btn btn-primary w-100" name="ubahproduk">UBAH SISWA</button>
 </form>
 <?php
 

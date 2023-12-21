@@ -4,7 +4,6 @@
     <div class="form-group form-inline">
         <input type="text" class="form-control mr-2" name="cari" placeholder="Ketik nama Kota...."/>
         <button class="btn btn-success mr-2" name="tombol_cari"><i class="fas fa-search"></i></button>
-        <a href="index.php?page=tambahongkir" class="btn btn-primary">Tambah Data Kota</a>
     </div>
 </form>
 <table class="table-bordered table-hover">
